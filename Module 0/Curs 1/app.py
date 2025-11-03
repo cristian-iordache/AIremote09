@@ -20,3 +20,5 @@ for i in a:
     print(i)
 
 print("Sfârșit program")    
+
+print("--- IGNORE ---")
