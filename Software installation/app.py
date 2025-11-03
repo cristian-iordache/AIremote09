@@ -8,3 +8,7 @@ print(a + b + c)
 
 print(a)
 
+if a == 5:
+    print("e 5")
+else:
+    print("nu e 5")
